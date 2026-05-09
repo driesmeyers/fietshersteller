@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Fietshersteller
 ---
 # driesmeyers.github.io
