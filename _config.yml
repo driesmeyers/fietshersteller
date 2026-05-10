@@ -7,7 +7,7 @@ name: Dries Meyers
 
 title: Fietshersteller
 
-theme: jekyll-theme-cayman
+theme: just-the-docs
 
 markdown: kramdown
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -48,6 +48,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme

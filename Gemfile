@@ -1,4 +1,3 @@
-# frozen_string_literal: true
 
 source "https://rubygems.org"
 
@@ -8,4 +7,4 @@ gem "github-pages", "~> 232", group: :jekyll_plugins
 
 gem "webrick", "~> 1.9"
 
-gem "jekyll-theme-cayman", "~> 0.2.0"
+gem "just-the-docs", "~> 0.12.0"
