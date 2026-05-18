@@ -31,14 +31,14 @@ callouts:
   highlight:
     color: yellow
   important:
-    title: Important
+    title: Belangrijk
     color: blue
   new:
-    title: New
+    title: Nieuw
     color: green
   note:
-    title: Note
+    title: Opmerking
     color: purple
   warning:
-    title: Warning
+    title: Waarschuwing
     color: red
